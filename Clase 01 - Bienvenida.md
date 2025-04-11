@@ -16,7 +16,7 @@ Modalidad: Presencial
 ## Clase que viene
 - 🧑‍🤝‍🧑Conformacion de los grupos
 
-## Matriculacion al Aula Virtual
+## Matriculación al Aula Virtual
 Es muy importante que esten matriculados en el aula para los TPs grupales. Ademas la informacion de la cursada esta ahi.  
 Si *todavia no estan matriculados*, haganlo en el aula de sistemas en Medrano. 
 
